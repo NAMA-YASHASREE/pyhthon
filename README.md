@@ -1,5 +1,7 @@
 # python
 a=7
-b=5
+b=7
 c=a+b
 print(c)
+*output* :
+14
